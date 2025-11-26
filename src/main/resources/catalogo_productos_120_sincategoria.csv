@@ -1,0 +1,121 @@
+id,nombre,precio,stock,descripcion
+1,TechPro Cortinas Blanco,520.33,153,Cortinas de alta calidad de la marca TechPro. Ideal para uso diario.
+2,TechPro Figura de acción Gris,128.65,174,Figura de acción de alta calidad de la marca TechPro. Ideal para uso diario.
+3,Elite Botella deportiva Rojo,594.42,91,Botella deportiva de alta calidad de la marca Elite. Ideal para uso diario.
+4,Premium Cómic Blanco,49.36,176,Cómic de alta calidad de la marca Premium. Ideal para uso diario.
+5,TechPro Cortinas Azul,346.08,12,Cortinas de alta calidad de la marca TechPro. Ideal para uso diario.
+6,Premium Balón Rojo,223.36,78,Balón de alta calidad de la marca Premium. Ideal para uso diario.
+7,SportMax Jarrón Negro,744.18,35,Jarrón de alta calidad de la marca SportMax. Ideal para uso diario.
+8,Premium Puzzle Rosa,81.2,166,Puzzle de alta calidad de la marca Premium. Ideal para uso diario.
+9,SportMax Sartén Azul,642.71,185,Sartén de alta calidad de la marca SportMax. Ideal para uso diario.
+10,ProLine Guantes Blanco,213.64,191,Guantes de alta calidad de la marca ProLine. Ideal para uso diario.
+11,Basic Falda Verde,725.85,21,Falda de alta calidad de la marca Basic. Ideal para uso diario.
+12,EcoLife Auriculares Rojo,721.89,196,Auriculares de alta calidad de la marca EcoLife. Ideal para uso diario.
+13,HomeStyle Alfombra Verde,400.4,196,Alfombra de alta calidad de la marca HomeStyle. Ideal para uso diario.
+14,ProLine Marco de fotos Negro,370.51,130,Marco de fotos de alta calidad de la marca ProLine. Ideal para uso diario.
+15,TechPro Vela aromática Gris,441.66,19,Vela aromática de alta calidad de la marca TechPro. Ideal para uso diario.
+16,Elite Cafetera Amarillo,304.77,13,Cafetera de alta calidad de la marca Elite. Ideal para uso diario.
+17,Premium Novela Blanco,617.94,120,Novela de alta calidad de la marca Premium. Ideal para uso diario.
+18,Premium Jersey Gris,573.97,102,Jersey de alta calidad de la marca Premium. Ideal para uso diario.
+19,TechPro Cafetera Negro,380.64,51,Cafetera de alta calidad de la marca TechPro. Ideal para uso diario.
+20,Elite Aceite corporal Negro,749.56,165,Aceite corporal de alta calidad de la marca Elite. Ideal para uso diario.
+21,ProLine Bloques de construcción Amarillo,260.3,171,Bloques de construcción de alta calidad de la marca ProLine. Ideal para uso diario.
+22,TechPro Crema facial Verde,165.68,100,Crema facial de alta calidad de la marca TechPro. Ideal para uso diario.
+23,Elite Camisa Rosa,597.19,108,Camisa de alta calidad de la marca Elite. Ideal para uso diario.
+24,SportMax Novela Verde,568.0,172,Novela de alta calidad de la marca SportMax. Ideal para uso diario.
+25,Elite Espejo Amarillo,9.35,9,Espejo de alta calidad de la marca Elite. Ideal para uso diario.
+26,Basic Figura de acción Rosa,569.29,41,Figura de acción de alta calidad de la marca Basic. Ideal para uso diario.
+27,Basic Cargador Rosa,597.8,86,Cargador de alta calidad de la marca Basic. Ideal para uso diario.
+28,EcoLife Perfume Amarillo,670.05,198,Perfume de alta calidad de la marca EcoLife. Ideal para uso diario.
+29,EcoLife Polo Verde,14.67,71,Polo de alta calidad de la marca EcoLife. Ideal para uso diario.
+30,HomeStyle Pesas Verde,799.35,187,Pesas de alta calidad de la marca HomeStyle. Ideal para uso diario.
+31,Basic Guantes Gris,791.59,104,Guantes de alta calidad de la marca Basic. Ideal para uso diario.
+32,ProLine Ensayo Rojo,329.53,66,Ensayo de alta calidad de la marca ProLine. Ideal para uso diario.
+33,HomeStyle Maceta Azul,271.79,25,Maceta de alta calidad de la marca HomeStyle. Ideal para uso diario.
+34,HomeStyle Chaqueta Azul,335.95,118,Chaqueta de alta calidad de la marca HomeStyle. Ideal para uso diario.
+35,EcoLife Cuchillos Rojo,345.44,16,Cuchillos de alta calidad de la marca EcoLife. Ideal para uso diario.
+36,Basic Espejo Negro,50.73,99,Espejo de alta calidad de la marca Basic. Ideal para uso diario.
+37,ProLine Libro de cocina Gris,689.33,131,Libro de cocina de alta calidad de la marca ProLine. Ideal para uso diario.
+38,Basic Vestido Azul,484.37,136,Vestido de alta calidad de la marca Basic. Ideal para uso diario.
+39,EcoLife Alfombra Rojo,621.12,19,Alfombra de alta calidad de la marca EcoLife. Ideal para uso diario.
+40,Elite Polo Blanco,313.32,173,Polo de alta calidad de la marca Elite. Ideal para uso diario.
+41,Premium Batidora Azul,294.4,149,Batidora de alta calidad de la marca Premium. Ideal para uso diario.
+42,Elite Laptop Rojo,24.89,40,Laptop de alta calidad de la marca Elite. Ideal para uso diario.
+43,Premium Cuerda de saltar Blanco,413.91,180,Cuerda de saltar de alta calidad de la marca Premium. Ideal para uso diario.
+44,Premium Batidora Verde,693.96,29,Batidora de alta calidad de la marca Premium. Ideal para uso diario.
+45,ProLine Calculadora Rojo,441.6,13,Calculadora de alta calidad de la marca ProLine. Ideal para uso diario.
+46,ProLine Batidora Rosa,389.93,147,Batidora de alta calidad de la marca ProLine. Ideal para uso diario.
+47,Premium Polo Rojo,734.57,44,Polo de alta calidad de la marca Premium. Ideal para uso diario.
+48,EcoLife Cuaderno Amarillo,86.55,49,Cuaderno de alta calidad de la marca EcoLife. Ideal para uso diario.
+49,EcoLife Memoria USB Gris,597.37,139,Memoria USB de alta calidad de la marca EcoLife. Ideal para uso diario.
+50,ProLine Perfume Verde,751.04,137,Perfume de alta calidad de la marca ProLine. Ideal para uso diario.
+51,HomeStyle Tostadora Amarillo,82.84,22,Tostadora de alta calidad de la marca HomeStyle. Ideal para uso diario.
+52,HomeStyle Cuaderno Blanco,631.82,76,Cuaderno de alta calidad de la marca HomeStyle. Ideal para uso diario.
+53,EcoLife Olla Rosa,446.59,10,Olla de alta calidad de la marca EcoLife. Ideal para uso diario.
+54,TechPro Cargador Azul,476.73,133,Cargador de alta calidad de la marca TechPro. Ideal para uso diario.
+55,HomeStyle Sudadera Rosa,769.3,76,Sudadera de alta calidad de la marca HomeStyle. Ideal para uso diario.
+56,ProLine Sudadera Azul,98.47,19,Sudadera de alta calidad de la marca ProLine. Ideal para uso diario.
+57,Basic Grapadora Verde,211.18,28,Grapadora de alta calidad de la marca Basic. Ideal para uso diario.
+58,Basic Ensayo Gris,419.69,52,Ensayo de alta calidad de la marca Basic. Ideal para uso diario.
+59,SportMax Olla Amarillo,427.52,111,Olla de alta calidad de la marca SportMax. Ideal para uso diario.
+60,EcoLife Laptop Verde,303.81,99,Laptop de alta calidad de la marca EcoLife. Ideal para uso diario.
+61,SportMax Laptop Blanco,788.01,4,Laptop de alta calidad de la marca SportMax. Ideal para uso diario.
+62,TechPro Cómic Blanco,20.34,60,Cómic de alta calidad de la marca TechPro. Ideal para uso diario.
+63,Elite Espejo Negro,174.85,113,Espejo de alta calidad de la marca Elite. Ideal para uso diario.
+64,ProLine Silla de oficina Azul,11.2,103,Silla de oficina de alta calidad de la marca ProLine. Ideal para uso diario.
+65,Basic Microondas Rosa,694.78,17,Microondas de alta calidad de la marca Basic. Ideal para uso diario.
+66,EcoLife Maceta Amarillo,220.88,89,Maceta de alta calidad de la marca EcoLife. Ideal para uso diario.
+67,Premium Mancuerna Gris,363.23,131,Mancuerna de alta calidad de la marca Premium. Ideal para uso diario.
+68,Basic Manta Blanco,262.43,83,Manta de alta calidad de la marca Basic. Ideal para uso diario.
+69,TechPro Manta Amarillo,149.75,85,Manta de alta calidad de la marca TechPro. Ideal para uso diario.
+70,TechPro Botella deportiva Verde,255.85,160,Botella deportiva de alta calidad de la marca TechPro. Ideal para uso diario.
+71,TechPro Pesas Rojo,753.21,80,Pesas de alta calidad de la marca TechPro. Ideal para uso diario.
+72,Elite Guía de viaje Blanco,723.87,126,Guía de viaje de alta calidad de la marca Elite. Ideal para uso diario.
+73,EcoLife Cuaderno Amarillo,631.65,123,Cuaderno de alta calidad de la marca EcoLife. Ideal para uso diario.
+74,ProLine Cable USB Azul,791.12,159,Cable USB de alta calidad de la marca ProLine. Ideal para uso diario.
+75,HomeStyle Puzzle Rosa,532.58,106,Puzzle de alta calidad de la marca HomeStyle. Ideal para uso diario.
+76,SportMax Peluche Gris,121.54,25,Peluche de alta calidad de la marca SportMax. Ideal para uso diario.
+77,Premium Laptop Azul,783.84,88,Laptop de alta calidad de la marca Premium. Ideal para uso diario.
+78,SportMax Banda elástica Blanco,327.18,172,Banda elástica de alta calidad de la marca SportMax. Ideal para uso diario.
+79,Premium Banda elástica Negro,476.61,191,Banda elástica de alta calidad de la marca Premium. Ideal para uso diario.
+80,HomeStyle Raqueta Blanco,474.44,120,Raqueta de alta calidad de la marca HomeStyle. Ideal para uso diario.
+81,ProLine Vestido Rosa,545.19,159,Vestido de alta calidad de la marca ProLine. Ideal para uso diario.
+82,ProLine Cargador Amarillo,345.79,150,Cargador de alta calidad de la marca ProLine. Ideal para uso diario.
+83,SportMax Cable USB Amarillo,229.98,159,Cable USB de alta calidad de la marca SportMax. Ideal para uso diario.
+84,ProLine Vela aromática Blanco,269.69,163,Vela aromática de alta calidad de la marca ProLine. Ideal para uso diario.
+85,SportMax Cable USB Verde,638.71,185,Cable USB de alta calidad de la marca SportMax. Ideal para uso diario.
+86,ProLine Cómic Rosa,360.85,189,Cómic de alta calidad de la marca ProLine. Ideal para uso diario.
+87,TechPro Reloj de pared Blanco,146.04,158,Reloj de pared de alta calidad de la marca TechPro. Ideal para uso diario.
+88,ProLine Guantes Azul,471.63,16,Guantes de alta calidad de la marca ProLine. Ideal para uso diario.
+89,SportMax Router Azul,535.26,65,Router de alta calidad de la marca SportMax. Ideal para uso diario.
+90,ProLine Raqueta Azul,183.76,106,Raqueta de alta calidad de la marca ProLine. Ideal para uso diario.
+91,SportMax Cortinas Negro,68.78,81,Cortinas de alta calidad de la marca SportMax. Ideal para uso diario.
+92,Basic Alfombra Verde,774.5,154,Alfombra de alta calidad de la marca Basic. Ideal para uso diario.
+93,ProLine Cable USB Rojo,255.86,193,Cable USB de alta calidad de la marca ProLine. Ideal para uso diario.
+94,Basic Organizador Rojo,225.01,91,Organizador de alta calidad de la marca Basic. Ideal para uso diario.
+95,HomeStyle Polo Amarillo,633.11,64,Polo de alta calidad de la marca HomeStyle. Ideal para uso diario.
+96,Basic Polo Azul,752.68,1,Polo de alta calidad de la marca Basic. Ideal para uso diario.
+97,HomeStyle Cuerda de saltar Rojo,65.08,139,Cuerda de saltar de alta calidad de la marca HomeStyle. Ideal para uso diario.
+98,Basic Cafetera Negro,590.3,164,Cafetera de alta calidad de la marca Basic. Ideal para uso diario.
+99,ProLine Olla Amarillo,46.88,60,Olla de alta calidad de la marca ProLine. Ideal para uso diario.
+100,Premium Chaqueta Azul,215.39,86,Chaqueta de alta calidad de la marca Premium. Ideal para uso diario.
+101,SportMax Herramientas Rojo,326.7,185,Herramientas de alta calidad de la marca SportMax. Ideal para uso diario.
+102,SportMax Sudadera Blanco,415.19,77,Sudadera de alta calidad de la marca SportMax. Ideal para uso diario.
+103,Premium Champú Negro,535.61,173,Champú de alta calidad de la marca Premium. Ideal para uso diario.
+104,HomeStyle Laptop Azul,533.81,17,Laptop de alta calidad de la marca HomeStyle. Ideal para uso diario.
+105,Basic Altavoz Bluetooth Azul,301.37,187,Altavoz Bluetooth de alta calidad de la marca Basic. Ideal para uso diario.
+106,EcoLife Cable USB Rojo,764.57,61,Cable USB de alta calidad de la marca EcoLife. Ideal para uso diario.
+107,Elite Libro infantil Verde,475.05,13,Libro infantil de alta calidad de la marca Elite. Ideal para uso diario.
+108,Premium Libro técnico Rosa,86.57,42,Libro técnico de alta calidad de la marca Premium. Ideal para uso diario.
+109,Basic Vestido Rojo,261.75,146,Vestido de alta calidad de la marca Basic. Ideal para uso diario.
+110,Premium Reloj de pared Gris,537.73,86,Reloj de pared de alta calidad de la marca Premium. Ideal para uso diario.
+111,TechPro Pantalón Gris,15.32,64,Pantalón de alta calidad de la marca TechPro. Ideal para uso diario.
+112,Basic Router Amarillo,41.52,47,Router de alta calidad de la marca Basic. Ideal para uso diario.
+113,TechPro Camiseta Verde,771.8,6,Camiseta de alta calidad de la marca TechPro. Ideal para uso diario.
+114,Basic Teclado Rojo,483.06,144,Teclado de alta calidad de la marca Basic. Ideal para uso diario.
+115,SportMax Maquillaje Gris,467.68,141,Maquillaje de alta calidad de la marca SportMax. Ideal para uso diario.
+116,Premium Organizador Azul,260.25,106,Organizador de alta calidad de la marca Premium. Ideal para uso diario.
+117,HomeStyle Polo Amarillo,175.03,20,Polo de alta calidad de la marca HomeStyle. Ideal para uso diario.
+118,Basic Monitor Rosa,33.2,164,Monitor de alta calidad de la marca Basic. Ideal para uso diario.
+119,TechPro Aceite corporal Gris,160.96,13,Aceite corporal de alta calidad de la marca TechPro. Ideal para uso diario.
+120,Basic Guantes Gris,799.75,69,Guantes de alta calidad de la marca Basic. Ideal para uso diario.
